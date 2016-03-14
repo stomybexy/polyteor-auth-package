@@ -2,7 +2,7 @@ Package.describe({
   name: 'jonatan:polyteor-auth',
   version: '0.0.1',
   // Brief, one-line summary of the package.
-  summary: '',
+  summary: 'Polymer element wrapping Meteor.user function.',
   // URL to the Git repository containing the source code for this package.
   git: 'https://github.com/stomybexy/polyteor-auth-package.git',
   // By default, Meteor will default to using README.md for documentation.

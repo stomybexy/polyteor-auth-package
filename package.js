@@ -11,9 +11,9 @@ Package.describe({
 });
 
 Package.onUse(function(api) {
-  api.versionsFrom('1.2.1');
+  api.versionsFrom('1.3.1');
 
-  api.use('jonatan:bower@0.0.2');
+  api.use('jonatan:bower@0.0.3');
 
   api.imply('ecmascript');
   api.imply('accounts-base');

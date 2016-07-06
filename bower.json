@@ -1,7 +1,7 @@
 {
   "name": "polyteor",
   "dependencies": {
-    "polyteor-auth": "stomybexy/polyteor-auth#^0.0.4" 
+    "polyteor-auth": "stomybexy/polyteor-auth#^0.0.5" 
   },
   "private": true
 }

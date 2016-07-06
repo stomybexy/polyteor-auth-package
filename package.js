@@ -1,6 +1,6 @@
 Package.describe({
   name: 'jonatan:polyteor-auth',
-  version: '0.0.3',
+  version: '0.0.4',
   // Brief, one-line summary of the package.
   summary: 'Polymer element wrapping Meteor.user function.',
   // URL to the Git repository containing the source code for this package.
